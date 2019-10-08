@@ -1,0 +1,16 @@
+
+.goatContainer {
+  border: 1px solid black;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  padding: 10px;
+  margin:10px auto; 
+}
+
+
+.goat {
+  height: 400px;
+  width: 400px
+}
